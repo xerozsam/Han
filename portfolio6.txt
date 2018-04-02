@@ -5,3 +5,4 @@ There are correctly working on Portfolio6
 1. Version control is good, said Juan
 2. Write message for each commit, said Joseph
 3. Dont't forget to configure your name & email, said James
+4. SE Portfolio 6
